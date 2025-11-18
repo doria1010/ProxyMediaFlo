@@ -5,7 +5,6 @@ fastapi
 uvicorn
 tzdata
 lxml
-app_port 8080 Commit
 curl_cffi
 fake-headers
 pydantic_settings
